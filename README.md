@@ -1,6 +1,6 @@
 # ML-Project
 
-build an Online Payment Fraud Detection model using machine learning in Python. Since the dataset doesn't have an explicit fraud label, I'll derive it using anomaly detection techniques. The steps will be:
+Build an Detecting Anomalous Transaction  model using machine learning in Python. The steps will be:
 
 ## 1. Data Preprocessing
 
